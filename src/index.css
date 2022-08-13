@@ -11,30 +11,31 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px 0;
-  gap: 7px;
+  padding: 1.464vw 0;
+  gap: 0.512vw;
 }
 h2 {
   font-weight: 500;
-  font-size: 14.4608px;
-  line-height: 18px;
-  letter-spacing: -0.075em;
+  font-size: 1.571vw;
+  line-height: 1.976vw;
+  letter-spacing: -0.035em;
   color: #ffffff;
 }
 
 .trips {
-  padding: 100px 40px;
+  padding: 7.32vw 5.856vw;
   background: #ffffff;
 }
 
 .place {
   display: flex;
-  gap: 19px;
-  margin-bottom: 36px;
+  gap: 1.39vw;
+  margin-bottom: 5.27vw;
 }
 .place-img {
-  max-width: 125px;
-  max-height: 170px;
+  max-width: 18.3vw;
+  max-height: 18.3vw;
+  height: auto;
   border-radius: 5px;
 }
 section {
@@ -42,45 +43,45 @@ section {
   align-items: center;
 }
 .pin-img {
-  max-width: 7px;
-  max-height: 10px;
+  max-width: 14px;
+  max-height: 20px;
 }
 p {
   font-weight: 400;
-  font-size: 10.24px;
-  line-height: 150%;
+  font-size: 1.5vw;
+  line-height: 200%;
   color: #2b283a;
 }
 .caps {
-  line-height: 12px;
+  line-height: 1.757vw;
   letter-spacing: 0.17em;
-  margin-left: 4px;
+  margin-left: 0.585vw;
 }
 a {
   font-weight: 400;
-  font-size: 10.24px;
-  line-height: 12px;
+  font-size: 1.5vw;
+  line-height: 1.756vw;
   text-decoration-line: underline;
   color: #918e9b;
-  margin-left: 12px;
+  margin-left: 1.756vw;
 }
 h1 {
-  margin-top: 4px;
-  padding-bottom: 10px;
+  margin-top: 0.585vw;
+  padding-bottom: 1.464vw;
   font-weight: 700;
-  font-size: 25px;
-  line-height: 30px;
+  font-size: 3.66vw;
+  line-height: 4.392vw;
 
   color: #2b283a;
 }
 h3 {
-  margin-top: 7px;
+  margin-top: 0.512vw;
   font-weight: 700;
-  font-size: 10.24px;
-  line-height: 12px;
+  font-size: 1.5vw;
+  line-height: 1.7569vw;
 
   color: #2b283a;
 }
 article{
-  margin-top: 9px;
+  margin-top: 1.3177vw;
 }
