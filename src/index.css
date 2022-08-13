@@ -56,11 +56,31 @@ p {
   letter-spacing: 0.17em;
   margin-left: 4px;
 }
-a{
+a {
   font-weight: 400;
   font-size: 10.24px;
   line-height: 12px;
   text-decoration-line: underline;
-  color: #918E9B;
+  color: #918e9b;
   margin-left: 12px;
+}
+h1 {
+  margin-top: 4px;
+  padding-bottom: 10px;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #2b283a;
+}
+h3 {
+  margin-top: 7px;
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+
+  color: #2b283a;
+}
+article{
+  margin-top: 9px;
 }
